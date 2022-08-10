@@ -1,6 +1,43 @@
-.body{
-  
+body{
+    background-image: url("./image\ 3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: fixed;
+   
+    background-size: 90rem 61.5rem;
 }
-.container{
-  
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 5rem;
+    color: rgb(1, 88, 40);
+    padding-left: 1rem;
+    padding-top: 0rem;
+    background: rgba(247, 248, 246, 0.664);
+    margin-right: 41rem;
+    margin-left: 1rem;
+    border-radius: 1rem;
 }
+
+p,h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 5rem;
+    font-style: oblique;
+}
+
+.btn{
+    color: rgb(255, 255, 255);
+    border-color: rgb(252, 252, 255);
+    border-radius: 8px;
+    background-color: rgb(2, 54, 37);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1rem;
+    margin-left: 9rem;
+}
+
+h3, p{
+    margin-left: 9rem;
+}
+
+
+
